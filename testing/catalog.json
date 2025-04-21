@@ -1,0 +1,764 @@
+{
+    "type": "FeatureCollection",
+    "feature": [
+        {
+            "type": "Feature",
+            "stac_version": "1.0.0",
+            "id": "URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-163607-av000040-018072.spectra",
+            "properties": {
+                "start_datetime": "2025-04-20T03:18:25.641119",
+                "end_datetime": "2025-04-20T03:18:25.641988",
+                "created": "2025-04-20T03:18:25.642643",
+                "updated": "2025-04-20T03:18:25.643299",
+                "datetime": "1970-01-01T00:00:00Z"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "links": [],
+            "assets": {
+                "CO2-230124-163607-av000040-018072.spectra.0.stac.json": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-163607-av000040-018072.spectra/CO2-230124-163607-av000040-018072.spectra.0.stac.json",
+                    "description": "desc=metadata stac;size=-1;checksumType=md5;checksum=unknown",
+                    "roles": [
+                        "metadata"
+                    ]
+                },
+                "CO2-230124-155621-av000040-015686.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-155621-av000040-015686.spectra/CO2-230124-155621-av000040-015686.spectra.0.stac.json",
+                    "title": "CO2-230124-155621-av000040-015686.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-160704-av000040-016329.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-160704-av000040-016329.spectra/CO2-230124-160704-av000040-016329.spectra.0.stac.json",
+                    "title": "CO2-230124-160704-av000040-016329.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-160614-av000040-016279.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-160614-av000040-016279.spectra/CO2-230124-160614-av000040-016279.spectra.0.stac.json",
+                    "title": "CO2-230124-160614-av000040-016279.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-161520-av000040-016825.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-161520-av000040-016825.spectra/CO2-230124-161520-av000040-016825.spectra.0.stac.json",
+                    "title": "CO2-230124-161520-av000040-016825.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-164828-av000040-018813.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-164828-av000040-018813.spectra/CO2-230124-164828-av000040-018813.spectra.0.stac.json",
+                    "title": "CO2-230124-164828-av000040-018813.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-162525-av000040-017430.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-162525-av000040-017430.spectra/CO2-230124-162525-av000040-017430.spectra.0.stac.json",
+                    "title": "CO2-230124-162525-av000040-017430.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-170816-av000040-020001.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-170816-av000040-020001.spectra/CO2-230124-170816-av000040-020001.spectra.0.stac.json",
+                    "title": "CO2-230124-170816-av000040-020001.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-164511-av000040-018616.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-164511-av000040-018616.spectra/CO2-230124-164511-av000040-018616.spectra.0.stac.json",
+                    "title": "CO2-230124-164511-av000040-018616.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-170548-av000040-019853.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-170548-av000040-019853.spectra/CO2-230124-170548-av000040-019853.spectra.0.stac.json",
+                    "title": "CO2-230124-170548-av000040-019853.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-165148-av000040-019013.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-165148-av000040-019013.spectra/CO2-230124-165148-av000040-019013.spectra.0.stac.json",
+                    "title": "CO2-230124-165148-av000040-019013.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-165417-av000040-019162.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-165417-av000040-019162.spectra/CO2-230124-165417-av000040-019162.spectra.0.stac.json",
+                    "title": "CO2-230124-165417-av000040-019162.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-155759-av000040-015784.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-155759-av000040-015784.spectra/CO2-230124-155759-av000040-015784.spectra.0.stac.json",
+                    "title": "CO2-230124-155759-av000040-015784.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-160256-av000040-016081.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-160256-av000040-016081.spectra/CO2-230124-160256-av000040-016081.spectra.0.stac.json",
+                    "title": "CO2-230124-160256-av000040-016081.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-160117-av000040-015982.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-160117-av000040-015982.spectra/CO2-230124-160117-av000040-015982.spectra.0.stac.json",
+                    "title": "CO2-230124-160117-av000040-015982.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-165010-av000040-018915.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-165010-av000040-018915.spectra/CO2-230124-165010-av000040-018915.spectra.0.stac.json",
+                    "title": "CO2-230124-165010-av000040-018915.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-164920-av000040-018865.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-164920-av000040-018865.spectra/CO2-230124-164920-av000040-018865.spectra.0.stac.json",
+                    "title": "CO2-230124-164920-av000040-018865.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-161113-av000040-016578.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-161113-av000040-016578.spectra/CO2-230124-161113-av000040-016578.spectra.0.stac.json",
+                    "title": "CO2-230124-161113-av000040-016578.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-162016-av000040-017121.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-162016-av000040-017121.spectra/CO2-230124-162016-av000040-017121.spectra.0.stac.json",
+                    "title": "CO2-230124-162016-av000040-017121.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-163339-av000040-017924.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-163339-av000040-017924.spectra/CO2-230124-163339-av000040-017924.spectra.0.stac.json",
+                    "title": "CO2-230124-163339-av000040-017924.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-171313-av000040-020298.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-171313-av000040-020298.spectra/CO2-230124-171313-av000040-020298.spectra.0.stac.json",
+                    "title": "CO2-230124-171313-av000040-020298.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-165645-av000040-019310.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-165645-av000040-019310.spectra/CO2-230124-165645-av000040-019310.spectra.0.stac.json",
+                    "title": "CO2-230124-165645-av000040-019310.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-162704-av000040-017529.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-162704-av000040-017529.spectra/CO2-230124-162704-av000040-017529.spectra.0.stac.json",
+                    "title": "CO2-230124-162704-av000040-017529.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-162614-av000040-017479.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-162614-av000040-017479.spectra/CO2-230124-162614-av000040-017479.spectra.0.stac.json",
+                    "title": "CO2-230124-162614-av000040-017479.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-165238-av000040-019063.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-165238-av000040-019063.spectra/CO2-230124-165238-av000040-019063.spectra.0.stac.json",
+                    "title": "CO2-230124-165238-av000040-019063.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-162932-av000040-017677.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-162932-av000040-017677.spectra/CO2-230124-162932-av000040-017677.spectra.0.stac.json",
+                    "title": "CO2-230124-162932-av000040-017677.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-160028-av000040-015933.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-160028-av000040-015933.spectra/CO2-230124-160028-av000040-015933.spectra.0.stac.json",
+                    "title": "CO2-230124-160028-av000040-015933.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-160525-av000040-016230.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-160525-av000040-016230.spectra/CO2-230124-160525-av000040-016230.spectra.0.stac.json",
+                    "title": "CO2-230124-160525-av000040-016230.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-170052-av000040-019557.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-170052-av000040-019557.spectra/CO2-230124-170052-av000040-019557.spectra.0.stac.json",
+                    "title": "CO2-230124-170052-av000040-019557.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-165734-av000040-019359.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-165734-av000040-019359.spectra/CO2-230124-165734-av000040-019359.spectra.0.stac.json",
+                    "title": "CO2-230124-165734-av000040-019359.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-163925-av000040-018270.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-163925-av000040-018270.spectra/CO2-230124-163925-av000040-018270.spectra.0.stac.json",
+                    "title": "CO2-230124-163925-av000040-018270.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-171134-av000040-020199.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-171134-av000040-020199.spectra/CO2-230124-171134-av000040-020199.spectra.0.stac.json",
+                    "title": "CO2-230124-171134-av000040-020199.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-164104-av000040-018369.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-164104-av000040-018369.spectra/CO2-230124-164104-av000040-018369.spectra.0.stac.json",
+                    "title": "CO2-230124-164104-av000040-018369.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-164153-av000040-018418.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-164153-av000040-018418.spectra/CO2-230124-164153-av000040-018418.spectra.0.stac.json",
+                    "title": "CO2-230124-164153-av000040-018418.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-163836-av000040-018221.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-163836-av000040-018221.spectra/CO2-230124-163836-av000040-018221.spectra.0.stac.json",
+                    "title": "CO2-230124-163836-av000040-018221.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-170906-av000040-020051.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-170906-av000040-020051.spectra/CO2-230124-170906-av000040-020051.spectra.0.stac.json",
+                    "title": "CO2-230124-170906-av000040-020051.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-171223-av000040-020248.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-171223-av000040-020248.spectra/CO2-230124-171223-av000040-020248.spectra.0.stac.json",
+                    "title": "CO2-230124-171223-av000040-020248.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-160436-av000040-016181.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-160436-av000040-016181.spectra/CO2-230124-160436-av000040-016181.spectra.0.stac.json",
+                    "title": "CO2-230124-160436-av000040-016181.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-164600-av000040-018665.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-164600-av000040-018665.spectra/CO2-230124-164600-av000040-018665.spectra.0.stac.json",
+                    "title": "CO2-230124-164600-av000040-018665.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-163021-av000040-017726.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-163021-av000040-017726.spectra/CO2-230124-163021-av000040-017726.spectra.0.stac.json",
+                    "title": "CO2-230124-163021-av000040-017726.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-170458-av000040-019803.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-170458-av000040-019803.spectra/CO2-230124-170458-av000040-019803.spectra.0.stac.json",
+                    "title": "CO2-230124-170458-av000040-019803.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-161341-av000040-016726.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-161341-av000040-016726.spectra/CO2-230124-161341-av000040-016726.spectra.0.stac.json",
+                    "title": "CO2-230124-161341-av000040-016726.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-161251-av000040-016676.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-161251-av000040-016676.spectra/CO2-230124-161251-av000040-016676.spectra.0.stac.json",
+                    "title": "CO2-230124-161251-av000040-016676.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-170409-av000040-019754.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-170409-av000040-019754.spectra/CO2-230124-170409-av000040-019754.spectra.0.stac.json",
+                    "title": "CO2-230124-170409-av000040-019754.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-161609-av000040-016874.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-161609-av000040-016874.spectra/CO2-230124-161609-av000040-016874.spectra.0.stac.json",
+                    "title": "CO2-230124-161609-av000040-016874.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-165913-av000040-019458.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-165913-av000040-019458.spectra/CO2-230124-165913-av000040-019458.spectra.0.stac.json",
+                    "title": "CO2-230124-165913-av000040-019458.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-161202-av000040-016627.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-161202-av000040-016627.spectra/CO2-230124-161202-av000040-016627.spectra.0.stac.json",
+                    "title": "CO2-230124-161202-av000040-016627.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-164649-av000040-018714.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-164649-av000040-018714.spectra/CO2-230124-164649-av000040-018714.spectra.0.stac.json",
+                    "title": "CO2-230124-164649-av000040-018714.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-162436-av000040-017381.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-162436-av000040-017381.spectra/CO2-230124-162436-av000040-017381.spectra.0.stac.json",
+                    "title": "CO2-230124-162436-av000040-017381.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-162753-av000040-017578.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-162753-av000040-017578.spectra/CO2-230124-162753-av000040-017578.spectra.0.stac.json",
+                    "title": "CO2-230124-162753-av000040-017578.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-170320-av000040-019705.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-170320-av000040-019705.spectra/CO2-230124-170320-av000040-019705.spectra.0.stac.json",
+                    "title": "CO2-230124-170320-av000040-019705.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-170230-av000040-019655.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-170230-av000040-019655.spectra/CO2-230124-170230-av000040-019655.spectra.0.stac.json",
+                    "title": "CO2-230124-170230-av000040-019655.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-164014-av000040-018319.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-164014-av000040-018319.spectra/CO2-230124-164014-av000040-018319.spectra.0.stac.json",
+                    "title": "CO2-230124-164014-av000040-018319.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-163200-av000040-017825.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-163200-av000040-017825.spectra/CO2-230124-163200-av000040-017825.spectra.0.stac.json",
+                    "title": "CO2-230124-163200-av000040-017825.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-163249-av000040-017874.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-163249-av000040-017874.spectra/CO2-230124-163249-av000040-017874.spectra.0.stac.json",
+                    "title": "CO2-230124-163249-av000040-017874.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-161837-av000040-017022.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-161837-av000040-017022.spectra/CO2-230124-161837-av000040-017022.spectra.0.stac.json",
+                    "title": "CO2-230124-161837-av000040-017022.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-160207-av000040-016032.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-160207-av000040-016032.spectra/CO2-230124-160207-av000040-016032.spectra.0.stac.json",
+                    "title": "CO2-230124-160207-av000040-016032.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-163607-av000040-018072.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-163607-av000040-018072.spectra/CO2-230124-163607-av000040-018072.spectra.0.stac.json",
+                    "title": "CO2-230124-163607-av000040-018072.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-165555-av000040-019260.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-165555-av000040-019260.spectra/CO2-230124-165555-av000040-019260.spectra.0.stac.json",
+                    "title": "CO2-230124-165555-av000040-019260.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-170638-av000040-019903.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-170638-av000040-019903.spectra/CO2-230124-170638-av000040-019903.spectra.0.stac.json",
+                    "title": "CO2-230124-170638-av000040-019903.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-163517-av000040-018022.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-163517-av000040-018022.spectra/CO2-230124-163517-av000040-018022.spectra.0.stac.json",
+                    "title": "CO2-230124-163517-av000040-018022.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-164739-av000040-018764.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-164739-av000040-018764.spectra/CO2-230124-164739-av000040-018764.spectra.0.stac.json",
+                    "title": "CO2-230124-164739-av000040-018764.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-161658-av000040-016923.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-161658-av000040-016923.spectra/CO2-230124-161658-av000040-016923.spectra.0.stac.json",
+                    "title": "CO2-230124-161658-av000040-016923.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-170141-av000040-019606.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-170141-av000040-019606.spectra/CO2-230124-170141-av000040-019606.spectra.0.stac.json",
+                    "title": "CO2-230124-170141-av000040-019606.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-155939-av000040-015884.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-155939-av000040-015884.spectra/CO2-230124-155939-av000040-015884.spectra.0.stac.json",
+                    "title": "CO2-230124-155939-av000040-015884.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-163656-av000040-018121.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-163656-av000040-018121.spectra/CO2-230124-163656-av000040-018121.spectra.0.stac.json",
+                    "title": "CO2-230124-163656-av000040-018121.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-164332-av000040-018517.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-164332-av000040-018517.spectra/CO2-230124-164332-av000040-018517.spectra.0.stac.json",
+                    "title": "CO2-230124-164332-av000040-018517.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-161430-av000040-016775.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-161430-av000040-016775.spectra/CO2-230124-161430-av000040-016775.spectra.0.stac.json",
+                    "title": "CO2-230124-161430-av000040-016775.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-164421-av000040-018566.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-164421-av000040-018566.spectra/CO2-230124-164421-av000040-018566.spectra.0.stac.json",
+                    "title": "CO2-230124-164421-av000040-018566.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-162842-av000040-017627.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-162842-av000040-017627.spectra/CO2-230124-162842-av000040-017627.spectra.0.stac.json",
+                    "title": "CO2-230124-162842-av000040-017627.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-160753-av000040-016378.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-160753-av000040-016378.spectra/CO2-230124-160753-av000040-016378.spectra.0.stac.json",
+                    "title": "CO2-230124-160753-av000040-016378.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-160934-av000040-016479.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-160934-av000040-016479.spectra/CO2-230124-160934-av000040-016479.spectra.0.stac.json",
+                    "title": "CO2-230124-160934-av000040-016479.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-170003-av000040-019508.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-170003-av000040-019508.spectra/CO2-230124-170003-av000040-019508.spectra.0.stac.json",
+                    "title": "CO2-230124-170003-av000040-019508.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-161023-av000040-016528.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-161023-av000040-016528.spectra/CO2-230124-161023-av000040-016528.spectra.0.stac.json",
+                    "title": "CO2-230124-161023-av000040-016528.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-165327-av000040-019112.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-165327-av000040-019112.spectra/CO2-230124-165327-av000040-019112.spectra.0.stac.json",
+                    "title": "CO2-230124-165327-av000040-019112.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-164242-av000040-018467.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-164242-av000040-018467.spectra/CO2-230124-164242-av000040-018467.spectra.0.stac.json",
+                    "title": "CO2-230124-164242-av000040-018467.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-170727-av000040-019952.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-170727-av000040-019952.spectra/CO2-230124-170727-av000040-019952.spectra.0.stac.json",
+                    "title": "CO2-230124-170727-av000040-019952.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-161927-av000040-017072.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-161927-av000040-017072.spectra/CO2-230124-161927-av000040-017072.spectra.0.stac.json",
+                    "title": "CO2-230124-161927-av000040-017072.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-170955-av000040-020100.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-170955-av000040-020100.spectra/CO2-230124-170955-av000040-020100.spectra.0.stac.json",
+                    "title": "CO2-230124-170955-av000040-020100.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-155849-av000040-015834.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-155849-av000040-015834.spectra/CO2-230124-155849-av000040-015834.spectra.0.stac.json",
+                    "title": "CO2-230124-155849-av000040-015834.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-165506-av000040-019211.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-165506-av000040-019211.spectra/CO2-230124-165506-av000040-019211.spectra.0.stac.json",
+                    "title": "CO2-230124-165506-av000040-019211.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-165823-av000040-019408.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-165823-av000040-019408.spectra/CO2-230124-165823-av000040-019408.spectra.0.stac.json",
+                    "title": "CO2-230124-165823-av000040-019408.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-160845-av000040-016430.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-160845-av000040-016430.spectra/CO2-230124-160845-av000040-016430.spectra.0.stac.json",
+                    "title": "CO2-230124-160845-av000040-016430.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-161748-av000040-016973.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-161748-av000040-016973.spectra/CO2-230124-161748-av000040-016973.spectra.0.stac.json",
+                    "title": "CO2-230124-161748-av000040-016973.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-163111-av000040-017776.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-163111-av000040-017776.spectra/CO2-230124-163111-av000040-017776.spectra.0.stac.json",
+                    "title": "CO2-230124-163111-av000040-017776.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-163428-av000040-017973.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-163428-av000040-017973.spectra/CO2-230124-163428-av000040-017973.spectra.0.stac.json",
+                    "title": "CO2-230124-163428-av000040-017973.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-155710-av000040-015735.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-155710-av000040-015735.spectra/CO2-230124-155710-av000040-015735.spectra.0.stac.json",
+                    "title": "CO2-230124-155710-av000040-015735.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-171045-av000040-020150.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-171045-av000040-020150.spectra/CO2-230124-171045-av000040-020150.spectra.0.stac.json",
+                    "title": "CO2-230124-171045-av000040-020150.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-165059-av000040-018964.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-165059-av000040-018964.spectra/CO2-230124-165059-av000040-018964.spectra.0.stac.json",
+                    "title": "CO2-230124-165059-av000040-018964.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-163746-av000040-018171.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-163746-av000040-018171.spectra/CO2-230124-163746-av000040-018171.spectra.0.stac.json",
+                    "title": "CO2-230124-163746-av000040-018171.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                },
+                "CO2-230124-160346-av000040-016131.spectra.0.stac": {
+                    "href": "s3://unity-dev-unity-unity-data/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100/URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100:CO2-230124-160346-av000040-016131.spectra/CO2-230124-160346-av000040-016131.spectra.0.stac.json",
+                    "title": "CO2-230124-160346-av000040-016131.spectra.0.stac",
+                    "description": "description text",
+                    "roles": [
+                        "data"
+                    ]
+                }
+            },
+            "bbox": [
+                53.7996902,
+                38.031826,
+                55.0450439,
+                39.2283897
+            ],
+            "stac_extensions": [
+                "https://stac-extensions.github.io/file/v2.1.0/schema.json"
+            ],
+            "collection": "URN:NASA:UNITY:UNITY:DEV:VTLS_COLLECTION___2505191100"
+        }
+    ]
+}

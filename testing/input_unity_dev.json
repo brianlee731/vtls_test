@@ -2,7 +2,7 @@
     "stage_in": {
         "stac_json": "https://raw.githubusercontent.com/brianlee731/vtls_test/refs/heads/main/testing/catalog.json", 
         "downloading_roles": "", 
-        "downloading_keys": "data",
+        "downloading_keys": "",
         "download_type": "S3",
         "edl_username": "/sps/processing/workflows/edl_username",
         "edl_password_type": "PARAM_STORE",

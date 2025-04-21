@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "feature": [
+    "features": [
         {
             "type": "Feature",
             "stac_version": "1.0.0",
